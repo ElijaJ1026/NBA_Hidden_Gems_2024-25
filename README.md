@@ -1,4 +1,6 @@
-NBA Hidden Gems: Identifying High-Impact Role Players Author:
+NBA Hidden Gems: Identifying High-Impact Role Players 
+
+Author:
 Elija Turull  
 https://www.linkedin.com/in/elija-turull-600405344/ | https://github.com/ElijaJ1026 | elijat2005@gmail.com
 
