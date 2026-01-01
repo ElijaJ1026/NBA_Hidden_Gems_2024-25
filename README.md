@@ -20,13 +20,13 @@ Team Bench Depth Comparison
 Methodology:
 
 Data Collection
-- **Source: NBA official statistics via the `nba_api` Python library (swar/nba_api on GitHub)
-- **Dataset: 2024-25 season player statistics (569 players initially)
+- Source: NBA official statistics via the `nba_api` Python library (swar/nba_api on GitHub)
+- Dataset: 2024-25 season player statistics (569 players initially)
 
 Role Player Definition & Filters
-- Minutes per game:** 15-25 (captures bench rotation players, excludes starters at 28+ minutes)
-- Games played:** Minimum 30 games (ensures statistical significance; eliminated small sample outliers)
-- Initial filtering** reduced dataset to 154 qualifying role players
+- Minutes per game: 15-25 (captures bench rotation players, excludes starters at 28+ minutes)
+- Games played: Minimum 30 games (ensures statistical significance; eliminated small sample outliers)
+- Initial filtering: reduced dataset to 154 qualifying role players
 
 Metrics Calculated:
 
