@@ -6,6 +6,16 @@ This project analyzes 2024-25 NBA season data to identify the most effective ben
 A "hidden gem" is defined as a player with limited minutes (15-25 MPG) who provides multi-dimensional impact—scoring efficiently, facilitating offense, securing rebounds, and generating defensive stops—often on overlooked teams where their contributions go unnoticed.
 
 ---
+Visualizations:
+
+Top 15 Hidden Gems
+![Top 15 Hidden Gems](visualizations/top_15_graph.png)
+
+Value vs Playing Time
+![Value vs Minutes](visualizations/value_vs_minutes.png)
+
+Team Bench Depth Comparison
+![Team Bench Depth](visualizations/NBA_Teams_with_Best_Bench_Depth.png)
 
 Methodology:
 
@@ -245,10 +255,3 @@ https://www.linkedin.com/in/elija-turull-600405344/ | https://github.com/ElijaJ1
 
 ---
 
-Visualizations:
-
-Top 15 Hidden Gems
-
-Value vs Playing Time
-
-Team Bench Depth Comparison
