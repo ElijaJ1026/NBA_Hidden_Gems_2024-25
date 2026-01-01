@@ -1,8 +1,11 @@
 NBA Hidden Gems: Identifying High-Impact Role Players
-Project Overview
+Author:
+Elija Turull  
+https://www.linkedin.com/in/elija-turull-600405344/ | https://github.com/ElijaJ1026 | elijat2005@gmail.com
+
+Project Overview:
 
 This project analyzes 2024-25 NBA season data to identify the most effective bench players who deliver outsized impact relative to their playing time. The analysis targets NBA front offices seeking cost-effective role players and fans looking to discover lesser-known contributors.
-
 A "hidden gem" is defined as a player with limited minutes (15-25 MPG) who provides multi-dimensional impact—scoring efficiently, facilitating offense, securing rebounds, and generating defensive stops—often on overlooked teams where their contributions go unnoticed.
 
 ---
@@ -190,7 +193,7 @@ python (3.13.7)
 nba_api          # NBA statistics API wrapper
 pandas           # Data manipulation and analysis
 matplotlib       # Data visualization
-```
+
 
 Data Source
 - API: NBA.com official statistics via `nba_api` library
@@ -199,7 +202,7 @@ Data Source
 - Collection Date: December 2024
 
 Repository Structure:
-```
+
 nba-hidden-gems/
 │
 ├── data/
@@ -216,7 +219,7 @@ nba-hidden-gems/
 │   └── NBA_Teams_with_Best_Bench_Depth.png  # Team bench depth comparison
 │
 └── README.md                            # Project documentation
-```
+
 
 Reproducibility
 To reproduce this analysis:
@@ -225,8 +228,6 @@ To reproduce this analysis:
 3. Data will be refreshed with current season statistics
 
 Note: Results may vary if run mid-season vs. end-of-season due to changing player statistics and games played.
-
----
 
 Next Steps & Future Work
 
@@ -245,13 +246,6 @@ Project Impact:
 
 This methodology demonstrates a data-driven approach to talent evaluation that complements traditional scouting. The findings validate observable NBA trends (importance of bench depth, value of efficient bigs) while surfacing specific actionable targets for team decision-makers.
 
----
-
-Author
-
-Elija Turull  
-https://www.linkedin.com/in/elija-turull-600405344/ | https://github.com/ElijaJ1026 | elijat2005@gmail.com
 
 
----
 
