@@ -9,7 +9,7 @@ A "hidden gem" is defined as a player with limited minutes (15-25 MPG) who provi
 Visualizations:
 
 Top 15 Hidden Gems
-![Top 15 Hidden Gems](D:\NBA Hidden Gem Project\viusalizations)
+![Top 15 Hidden Gems](\viusalizations/top_15_graph)
 
 
 Value vs Playing Time
